@@ -1,0 +1,15 @@
+{
+  "name": "io-game",
+  "version": "1.0.0",
+  "description": "These are really popular, (usually) single input, multiplayer games. e.g. agar.io, slither.io, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
